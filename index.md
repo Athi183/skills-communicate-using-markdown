@@ -10,3 +10,12 @@ git commit-m "added all the headers with different sizes"
 <img alt="Image of Yaktocat"
 src=https://octodex.github.com/images/yaktocat.png width=400>
 git commit-m "added an image to the index file"
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+``` javascript
+var myVar = "Hello, world!";
+```
+git commit-m "added a code example"
